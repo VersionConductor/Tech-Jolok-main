@@ -2,7 +2,7 @@
 - First clone it useing
 
 ## 
-        git remote add origin https://github.com/VersionConductor/Tech-Jolok-main.git
+        (https://github.com/VersionConductor/Tech-Jolok-main.git)
 
 - After cloning the repository install node_module folder using 
 ## 
