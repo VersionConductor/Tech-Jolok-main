@@ -2,7 +2,7 @@
 - First clone it useing
 
 ## 
-        (https://github.com/VersionConductor/Tech-Jolok-main.git)
+        git clone https://github.com/VersionConductor/Tech-Jolok-main.git
 
 - After cloning the repository install node_module folder using 
 ## 
