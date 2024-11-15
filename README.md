@@ -1,4 +1,6 @@
 # This is a tech jolok website template.
+![teck-jolok 2024-11-15 145824](https://github.com/user-attachments/assets/4c0161b2-98c0-4441-9c62-e51c61691daa)
+##
 - First clone it useing
 
 ## 
